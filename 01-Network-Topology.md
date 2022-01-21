@@ -19,7 +19,7 @@ specific computer connected to this cable.
 3. If the central device is damaged, then the whole network fails. 
 4. Star topology is very easy to install, manage and troubleshoot. It is
 commonly used in office and home networks.
-![[01-star.png]]
+![[images/01-star.png]]
 
 ---
 **Ring** :
