@@ -10,7 +10,7 @@
 1. Star topology is a network topology in which all the nodes are connected to a single device known as a central device.
 2. Star topology requires more cable compared to other topologies. Therefore, it is more robust as a failure in one cable will only disconnect a specific computer connected to this cable.
 3. If the central device is damaged, then the whole network fails. 
-4. 4. Star topology is very easy to install, manage and troubleshoot. It is commonly used in office and home networks.
+4. Star topology is very easy to install, manage and troubleshoot. It is commonly used in office and home networks.
 
 ![](images/01-star.png)
 
@@ -23,6 +23,7 @@
 5.  Examples of Ring topology are SONET network, SDH network, etc.
 
 ![](images/02-ring.png)
+
 ---
 **Bus** :
 1.  Bus topology is a network topology in which all the nodes are connected to a single cable known as a central cable or bus.
@@ -31,6 +32,7 @@
 4.  As if the bus is damaged then the whole network fails.
 
 ![](images/03-bus.png)
+
 ---
 **Mesh** :
 1.  Mesh topology is a network topology in which all the nodes are individually connected to other nodes.
@@ -42,6 +44,7 @@ In this topology, all the nodes are connected to each other. Partially connected
 6.  Cabling cost is high as it requires bulk wiring.
 
  ![](images/04-mesh.png)
+
 ---
 **Tree** :
 1.  Tree topology is a combination of star and bus topology. It is also known as the expanded star topology.
