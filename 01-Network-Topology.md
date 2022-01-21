@@ -19,7 +19,7 @@ specific computer connected to this cable.
 3. If the central device is damaged, then the whole network fails. 
 4. Star topology is very easy to install, manage and troubleshoot. It is
 commonly used in office and home networks.
-![[images/01-star.png]]
+![](images/01-star.png)
 
 ---
 **Ring** :
@@ -30,7 +30,7 @@ or more nodes and thus, forming a single continuous path for the transmission.
 4.  Ring topology is very rarely used as it is expensive, difficult to install and 
 manage.
 5.  Examples of Ring topology are SONET network, SDH network, etc.
-![[02-ring.png]]
+![](images/02-ring.png)
 ---
 **Bus** :
 1.  Bus topology is a network topology in which all the nodes are connected to a 
@@ -40,7 +40,7 @@ data to other devices, then it will send the data over the bus which in turn sen
 the data to all the attached devices.
 3.   Bus topology is useful for a small number of devices.
 4.  As if the bus is damaged then the whole network fails.
-![[03-bus.png]]
+![](images/03-bus.png)
 ---
 **Mesh** :
 1.  Mesh topology is a network topology in which all the nodes are individually 
@@ -55,7 +55,7 @@ connected to this cable.
 5.  Mesh topology is rarely used as installation and configuration are difficult when 
 connectivity gets more.
 6.  Cabling cost is high as it requires bulk wiring.
- ![[04-mesh.png]]
+ ![](images/04-mesh.png)
 ---
 **Tree** :
 1.  Tree topology is a combination of star and bus topology. It is also known as the 
@@ -67,7 +67,8 @@ can be easily maintained. If one segment is damaged, there is no effect on other
 segments.
 5.  Tree topology depends on the "main bus," and if it breaks, then the whole 
 network gets damaged
-![[05-tree.png]]
+![](images/05-tree.png)
+
 ---
 **Hybrid** :
 1.  A hybrid topology is a combination of different topologies to form a resulting 
@@ -75,4 +76,4 @@ topology.
 2.  If star topology is connected with another star topology, then it remains a star 
 topology. If star topology is connected with different topology, then it becomes a 
 Hybrid topology.
-![[06-hybrid.png]]
+![](images/06-hybrid.png)
