@@ -40,6 +40,7 @@ data to other devices, then it will send the data over the bus which in turn sen
 the data to all the attached devices.
 3.   Bus topology is useful for a small number of devices.
 4.  As if the bus is damaged then the whole network fails.
+
 ![](images/03-bus.png)
 ---
 **Mesh** :
@@ -55,6 +56,7 @@ connected to this cable.
 5.  Mesh topology is rarely used as installation and configuration are difficult when 
 connectivity gets more.
 6.  Cabling cost is high as it requires bulk wiring.
+
  ![](images/04-mesh.png)
 ---
 **Tree** :
